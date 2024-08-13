@@ -1,6 +1,4 @@
-Certainly! Here's a refined version of your content:
 
----
 
 <h1 align="center">✨ Creal Stealer ✨</h1>
 
